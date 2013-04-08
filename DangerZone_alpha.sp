@@ -7,7 +7,7 @@
 public Plugin:myinfo = 
 {
   name = "Danger Zone",
-	author = "Pierce 'NameUser' Strine",
+	author = "Pierce 'NameUser' Strine & various coders",
 	description = "A new TF2 gamemode",
 	version = "1.0",
 	url = "steamcommunity.com/id/NameUser"
